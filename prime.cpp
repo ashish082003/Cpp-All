@@ -16,7 +16,7 @@ if(n%i==0){
 prime=false;
 }
 }
-if(prime){
+if(prime==true){
 cout<<"n is prime number"<<endl;
 }
 else{
