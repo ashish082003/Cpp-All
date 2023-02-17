@@ -17,4 +17,5 @@ void printc(){
 int main(){
     B o1;
     o1.printc();
+    return 0;
 }
