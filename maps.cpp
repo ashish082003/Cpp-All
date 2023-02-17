@@ -13,4 +13,5 @@ int main(){
     for(iter=marksmap.begin();iter!=marksmap.end();iter++){
         cout<<(*iter).first<<" "<<(*iter).second<<endl;
     }
+    return 0;
 }
