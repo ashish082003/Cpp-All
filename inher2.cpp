@@ -27,4 +27,5 @@ int main()
 {
     C o1;
     o1.printc();
+    return 0;
 }
