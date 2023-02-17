@@ -1,2 +1,2 @@
-# c-boot
+# CPP-All
 Config files for my GitHub profile.
